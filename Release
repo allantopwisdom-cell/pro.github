@@ -8,8 +8,8 @@ Components: main
 Description: allantopwisdom-cell 的越狱软件源
 Support: https://allantopwisdom-cell.github.io/pro.github/
 MD5Sum:
- 1c50322df918d9a8c22c0ea192b5c2a5  1111 Packages
- e8811f3bfafb900a05a8e39fdc0ffb8c  695 Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e  0 Packages
+ 6c4c548450058a09802d9d328342da95  29 Packages.gz
 SHA256:
- f5d5e63448430bfbe7e00a3cfa7eba9c19d91fc787c5c83dfd494e4dc976bf3c  1111 Packages
- 4b002cf74af654c7079de829816d96911f1953e49e6f38bbfc9b6ff53d18d907  695 Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  0 Packages
+ ba36832b9112189c0291ff13d55f37993e5bf011c812536084f98bbbe53eda95  29 Packages.gz
